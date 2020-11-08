@@ -66,9 +66,5 @@ Hi, I'm [Animesh Singh](#), a Web Developer 🚀 from India primarily interested
 <summary>📈 My GitHub Stats</summary>
 
 <p>
-<<<<<<< HEAD
-</br> 
-=======
-</br> <img src="https://github-readme-stats.vercel.app/api?username=AnimeshRy&show_icons=true&theme=gotham" alt="AnimeshRy stats"/>
->>>>>>> fa6b109f77abe67e8ff5550817a4fa23a57fa48b
+</br> <img src="https://github-readme-stats.vercel.app/api?username=AnimeshRy&show_icons=true&theme=gruvbox" alt="AnimeshRy stats"/>
 </details>
