@@ -59,8 +59,7 @@ Hi, I'm [Animesh Singh](#), a Web Developer 🚀 from India primarily interested
 
 **Recent Projects:**  
   <ul>
-  <li><a href="https://github.com/AnimeshRy/odin-library">Odin Library</a></li>
-  <li><a href="https://github.com/AnimeshRy/Auctions_Django">Auctions App</a></li>
+  <li><a href="https://github.com/AnimeshRy/rock-paper-scissors-js">Odin RPS</a></li>
   </ul>
 <details>
 <summary>📈 My GitHub Stats</summary>
