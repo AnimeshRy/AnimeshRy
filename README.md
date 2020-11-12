@@ -26,9 +26,9 @@
 <br/>
 <br/>
 
-Hi, I'm [Animesh Singh](#), a Web Developer 🚀 from India primarily interested in backend operations. I have worked on some games in the past and would occasionally tinker with unity and C# sometimes. I'm always looking to collaborate on open source projects under my domain. Besides programming, I enjoy watching anime, playing games and watching football ⚽.
+Hi, I'm [Animesh Singh](#), a Web Developer 🚀 from India primarily interested in backend operations. I have also worked on some games in the past and would occasionally tinker with unity and C# sometimes. I'm always looking to collaborate on open source projects under my domain. Besides programming, I enjoy watching anime, playing games and watching football ⚽.
 
-![Alt Text](page.gif)
+<!-- ![Alt Text](page.gif) -->
 
 **Talking about Personal Stuff:**
 
@@ -57,9 +57,9 @@ Hi, I'm [Animesh Singh](#), a Web Developer 🚀 from India primarily interested
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
-**Recent Projects:**  
+<!-- **Recent Projects:**  
   <ul>
-  <li><a href="https://github.com/AnimeshRy/rock-paper-scissors-js">Odin RPS</a></li>
+  <li><a href="https://github.com/AnimeshRy/rock-paper-scissors-js">Odin RPS</a></li> -->
   </ul>
 <details>
 <summary>📈 My GitHub Stats</summary>
