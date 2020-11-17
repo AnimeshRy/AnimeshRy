@@ -26,7 +26,7 @@
 <br/>
 <br/>
 
-Hi, I'm [Animesh Singh](#), a Web Developer 🚀 from India primarily interested in backend operations. I have also worked on some games in the past and would occasionally tinker with unity and C# sometimes. I'm always looking to collaborate on open source projects under my domain. Besides programming, I enjoy watching anime, playing games and watching football ⚽.
+Hi, I'm [Animesh Singh](#), a Web Developer 🚀 from India primarily interested in backend operations. I'm always looking to collaborate on open source projects under my domain. Besides programming, I enjoy watching anime, playing games and watching football ⚽.
 
 <!-- ![Alt Text](page.gif) -->
 
