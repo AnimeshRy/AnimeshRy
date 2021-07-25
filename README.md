@@ -37,7 +37,6 @@ Hi, I'm [Animesh Singh](https://iamanimesh.tech/), a Full Stack Developer from I
 - 🌱 I write articles for [@Meusec](https://www.meusec.com/) and archive them [here](https://animeshry.github.io/blog/)
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@AnimeshRy](https://twitter.com/AnimeshRy)
-- 📝[Resume](https://iamanimesh.tech/resume.pdf)
 
 **Stack and Tools I prefer:**  
 
