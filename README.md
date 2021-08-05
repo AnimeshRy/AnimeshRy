@@ -23,7 +23,7 @@
 <br/>
 <br/>
 
-Hi, I'm [Animesh Singh](https://iamanimesh.tech/), a Full Stack Developer from India specializing in building exceptional Web Apps. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Animesh Singh](https://iamanimesh.tech/), a Software Developer from India specializing in building exceptional Web Apps. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 <!-- ![Alt Text](page.gif) -->
 <details>
