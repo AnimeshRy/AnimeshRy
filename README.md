@@ -33,7 +33,7 @@ Hi, I'm [Animesh Singh](https://iamanimesh.tech/), a Software Developer from Ind
 
 **Talking about Personal Stuff:**
 
-- 👨🏽‍💻 I’m currently working on [@Student-Portal](https://github.com/tsg-asya/student-portal) 😉
+- 👨🏽‍💻 I’m currently looking for work 😉
 - 🌱 I write articles for [@Meusec](https://www.meusec.com/) and archive them [here](https://animeshry.github.io/blog/)
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@AnimeshRy](https://twitter.com/AnimeshRy)
