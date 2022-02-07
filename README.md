@@ -19,7 +19,7 @@
   <img align="left" alt="AnimeshRy's Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/steam.svg" />
 </a>
 
-![visitor](https://visitor-badge.glitch.me/badge?page_id=AnimeshRy.AnimeshRy) 
+<!-- ![visitor](https://visitor-badge.glitch.me/badge?page_id=AnimeshRy.AnimeshRy)  -->
 <br/>
 <br/>
 
