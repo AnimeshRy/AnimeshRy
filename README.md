@@ -18,6 +18,9 @@
 <a href="https://steamcommunity.com/id/absoluteerastone">
   <img align="left" alt="AnimeshRy's Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/steam.svg" />
 </a>
+<a href="https://stackoverflow.com/users/12828360/era5tone">
+  <img align="left" alt="AnimeshRy's Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/stackoverflow.svg" />
+</a>
 
 <!-- ![visitor](https://visitor-badge.glitch.me/badge?page_id=AnimeshRy.AnimeshRy)  -->
 <br/>
@@ -33,7 +36,7 @@ Hi, I'm [Animesh Singh](https://iamanimesh.tech/), a Software Developer from Ind
 
 **Talking about Personal Stuff:**
 
-- 👨🏽‍💻 I’m currently looking to collaberate on open source projects or ideas
+- 👨🏽‍💻 I’m currently not taking any more projects
 - 🌱 I write articles for [@Meusec](https://www.meusec.com/) and archive them [here](https://animeshry.github.io/blog/)
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@AnimeshRy](https://twitter.com/AnimeshRy)
