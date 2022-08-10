@@ -62,7 +62,6 @@ Hi, I'm [Animesh Singh](https://iamanimesh.tech/), a Software Developer from Ind
 
 <details>
 <summary>📈 My GitHub Stats</summary>
+  <br />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=animeshry&count_private=true&theme=gruvbox&show_icons=true&hide=contribs" />
-  &emsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=animeshry&layout=compact&count_private=true&theme=gruvbox&show_icons=true" />
 </details>
