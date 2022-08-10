@@ -36,7 +36,7 @@ Hi, I'm [Animesh Singh](https://iamanimesh.tech/), a Software Developer from Ind
 
 **Talking about Personal Stuff:**
 
-- 👨🏽‍💻 I’m currently grinding DSA 
+- 👨🏽‍💻 I’m currently grinding DSA
 - 🌱 I write articles for [@Meusec](https://www.meusec.com/) and archive them [here](https://animeshry.github.io/blog/)
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@AnimeshRy](https://twitter.com/AnimeshRy)
@@ -62,7 +62,7 @@ Hi, I'm [Animesh Singh](https://iamanimesh.tech/), a Software Developer from Ind
 
 <details>
 <summary>📈 My GitHub Stats</summary>
-
-<p>
-</br> <img src="https://github-readme-stats.vercel.app/api?username=AnimeshRy&show_icons=true&theme=gruvbox" alt="AnimeshRy stats"/> </p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=animeshry&count_private=true&theme=gruvbox&show_icons=true&hide=contribs" />
+  &emsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=animeshry&layout=compact&count_private=true&theme=gruvbox&show_icons=true" />
 </details>
