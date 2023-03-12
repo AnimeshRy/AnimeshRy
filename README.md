@@ -9,12 +9,6 @@
 <a href="https://twitter.com/AnimeshRy">
   <img align="left" alt="AnimeshRy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://open.spotify.com/user/31uvmk13hfxu54hjly2y22spu">
-  <img align="left" alt="AnimeshRy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />
-</a>
-<a href="https://www.reddit.com/user/AnimeshRy/">
-  <img align="left" alt="Animesh's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
 <a href="https://steamcommunity.com/id/absoluteerastone">
   <img align="left" alt="AnimeshRy's Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/steam.svg" />
 </a>
@@ -26,7 +20,7 @@
 <br/>
 <br/>
 
-Hi, I'm [Animesh Singh](https://iamanimesh.tech/), a Software Developer from India specializing in building exceptional Web Apps. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hey there, I'm Animesh - a software engineer with a passion for solving problems and bringing ideas to life through code. Nice to meet you!
 
 <!-- ![Alt Text](page.gif) -->
 <details>
@@ -36,9 +30,7 @@ Hi, I'm [Animesh Singh](https://iamanimesh.tech/), a Software Developer from Ind
 
 **Talking about Personal Stuff:**
 
-- 👨🏽‍💻 I’m currently looking to explore web3 projects
-- 🌱 I write articles for [@Meusec](https://www.meusec.com/) and archive them [here](https://animeshry.github.io/blog/)
-- 💬 Ask me about anything, I am happy to help
+- 🌱 Find my articles [here](https://animeshry.github.io/blog/)
 - 📫 How to reach me: [@AnimeshRy](https://twitter.com/AnimeshRy)
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
