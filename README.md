@@ -4,7 +4,7 @@
   <img align="left" alt="Animesh's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/AnimeshRy">
-  <img align="left" alt="AnimeshRy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="AnimeshRy | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://twitter.com/AnimeshRy">
   <img align="left" alt="AnimeshRy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -13,7 +13,10 @@
   <img align="left" alt="AnimeshRy's Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/steam.svg" />
 </a>
 <a href="https://stackoverflow.com/users/12828360/era5tone">
-  <img align="left" alt="AnimeshRy's Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/stackoverflow.svg" />
+  <img align="left" alt="AnimeshRy's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/stackoverflow.svg" />
+</a>
+<a href="https://leetcode.com/era5tone">
+  <img align="left" alt="AnimeshRy's Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/leetcode.svg" />
 </a>
 
 <!-- ![visitor](https://visitor-badge.glitch.me/badge?page_id=AnimeshRy.AnimeshRy)  -->
