@@ -23,7 +23,7 @@
 <br/>
 <br/>
 
-Hey there, I'm [Animesh](https://iamanimesh.info/) - a software engineer with a passion for solving problems and bringing ideas to life through code. Nice to meet you!
+Hey there, I'm [Animesh](https://nimesh.info/) - a software engineer with a passion for solving problems and bringing ideas to life through code. Nice to meet you!
 
 <!-- ![Alt Text](page.gif) -->
 <details>
